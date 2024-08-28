@@ -156,6 +156,7 @@ table td {
   }
   .prep__time__section {
     max-width: 95%;
+    margin-top: 7px;
   }
   .image__container img {
     border-radius: 0px;
