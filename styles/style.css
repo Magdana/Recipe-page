@@ -162,7 +162,7 @@ table td {
   }
 }
 @media only screen and (max-width: 768px) {
-  .prep__time__section {
+  .prep__time__list {
     margin-top: 7px;
   }
 }
